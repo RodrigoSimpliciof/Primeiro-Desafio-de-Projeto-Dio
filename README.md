@@ -1,2 +1,3 @@
 # Primeiro-Desafio-de-Projeto-Dio
-Criando meu primeiro repositÃ³rio.
+Criando meu primeiro repositório.
+Primeiro contato com codigos.
